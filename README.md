@@ -1,6 +1,6 @@
 # TrustPort
 Selected programming examples from my work at TrustPort
-TrustPort – C++ Programming Examples
+C++ Programming Examples
 
 Selected C++ programming examples from my work at TrustPort.
 
